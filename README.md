@@ -28,5 +28,10 @@ iovpn: https://t.me/io_vpnbot?start=6392863061 | https://t.me/iovpn
 
 Avevpn: https://t.me/AveVpnBot?start=5231363734
 
+# Узнать мой ip адрес
+
+1) https://whoer.net/ru
+
+2) https://2ip.ru
 
 
