@@ -1,4 +1,4 @@
-#profile-title: base64:0JrQvtGCINCy0L/QvSDRgdC60L7RgNC+0YHRgtC90L7QuSDRgNC10LbQuNC8IPCfmLrwn5CI4oCN4qyb8J+UpfCfmoA=
+#profile-title: base64:0JrQvtGCINCy0L/QvS1ib3gg7aC97bi6
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/catktsuser/vpncat
