@@ -18,8 +18,8 @@
 
 Добавить подписку:
 
-Для V2RayTun, Happvpn, v2ng , v2box , hiddfit: https://raw.githubusercontent.com/catktsuser/vpncat-box/refs/heads/main/vpn-service/catvpn/catspeedversion.txt
+Для V2RayTun, Happvpn, v2ng , v2box , hiddfit: https://catvpn-box.duckdns.org/vpn-service/catvpn/catspeedversion.txt
 
-Для Nekobox: https://raw.githubusercontent.com/catktsuser/vpncat-box/refs/heads/main/vpn-service/catvpn/fornekobox.txt
+Для Nekobox: https://catvpn-box.duckdns.org/vpn-service/catvpn/fornekobox.txt
 
 Скоро будет больше конфигураций!!!
