@@ -12,3 +12,11 @@
 | Дом - Домашняя подойдёт у кого есть wifi |
 | Аварильная - Аварильная нужна друг есть блокировка вашего региона по протоколу xray |
 | Моб.Оператор - Мобильный оператор нужен для обхода белого списка интернета |
+
+Например:
+<img width="540" height="1170" alt="IMG_20251228_175935" src="https://github.com/user-attachments/assets/3cfc0d48-dd5e-45a7-bc7f-c897418985af" />
+
+Добавить подписку:
+
+Для V2RayTun, Happvpn, v2ng , v2box , hiddfit: https://raw.githubusercontent.com/catktsuser/vpncat-box/refs/heads/main/vpn-service/catvpn/catspeedversion.txt
+Для Nekobox: https://raw.githubusercontent.com/catktsuser/vpncat-box/refs/heads/main/vpn-service/catvpn/fornekobox.txt
