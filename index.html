@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cat-box</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #fdf6e9;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            background-color: #ff9966;
+            padding: 30px 0;
+            border-radius: 12px;
+            color: white;
+        }
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 10px;
+        }
+        p.subtitle {
+            font-size: 1.3rem;
+            opacity: 0.9;
+        }
+        section {
+            margin-bottom: 50px;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #ff6b6b;
+            font-size: 2rem;
+        }
+        /* Карточки с котиками */
+        .cats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+        .cat-card {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .cat-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.16);
+        }
+        .cat-card img {
+            width: 100%;
+            height: 220px;
+            object-fit: cover;
+            transition: scale 0.4s ease;
+        }
+        .cat-card:hover img {
+            scale: 1.05;
+        }
+        .cat-info {
+            padding: 20px;
+        }
+        .cat-info h3 {
+            font-size: 1.4rem;
+            margin-bottom: 10px;
+            color: #4a4a4a;
+        }
+        .cat-info p {
+            color: #666;
+            font-size: 1rem;
+            margin-bottom: 8px;
+        }
+        /* Блок с видео */
+        .videos-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+            justify-content: center;
+        }
+        .video-card {
+            flex: 1 1 350px;
+            max-width: 380px;
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .video-card iframe {
+            width: 100%;
+            height: 220px;
+            border: none;
+        }
+        .video-info {
+            padding: 15px;
+            text-align: center;
+        }
+        .video-info h3 {
+            font-size: 1.2rem;
+            margin-bottom: 8px;
+            color: #4a4a4a;
+        }
+        footer {
+            text-align: center;
+            padding: 40px 0 20px;
+            color: #888;
+            border-top: 2px solid #ff9966;
+            margin-top: 30px;
+        }
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.2rem;
+            }
+            p.subtitle {
+                font-size: 1.1rem;
+            }
+            h2 {
+                font-size: 1.7rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Котики —  домашние животные, млекопитающие семейства кошачьих отряда хищных.</h1>
+            <p class="subtitle">Милые фото и забавные видео про самых очаровательных котиков</p>
+        </header>
+
+        <!-- Раздел с фото котиков -->
+        <section>
+            <h2>Фото котиков</h2>
+            <div class="cats-grid">
+                <!-- Карточка 1 -->
+                <div class="cat-card">
+                    <img src="https://img.goodfon.com/wallpaper/big/c/c6/kotenok-ryzhii-miachik.webp" alt="Рыжий котик">
+                    <div class="cat-info">
+                        <h3>1</h3>
+                        <p>Кошка.</p>
+                    </div>
+                </div>
+
+                <!-- Карточка 2 -->
+                <div class="cat-card">
+                    <img src="https://img.freepik.com/premium-photo/grey-cat-is-resting-wooden-window-sill-modern-house-interior-cat-is-sleeping-domestic-cat-living-good-conditions-concept_782515-2456.jpg" alt="Серый котик">
+                    <div class="cat-info">
+                        <h3>2</h3>
+                        <p>Кот.</p>
+                    </div>
+                </div>
+
+                <!-- Карточка 3 -->
+                <div class="cat-card">
+                    <img src="https://cs5.livemaster.ru/storage/b2/a8/c3eb19b8010b26753fad1922f3rn--kukly-i-igrushki-koshka-myagkaya-podvizhnaya-igrushka-na-zaka.jpg" alt="Полосатый котик">
+                    <div class="cat-info">
+                        <h3>3</h3>
+                        <p>Кошка.</p>
+                    </div>
+                </div>
+
+                <!-- Карточка 4 -->
+                <div class="cat-card">
+                    <img src="https://i.pinimg.com/736x/b0/a5/74/b0a57407e54eb86f3aae77877017edb7.jpg" alt="Чёрный котик">
+                    <div class="cat-info">
+                        <h3>4</h3>
+                        <p>Кот.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Раздел с видео -->
+        <section>
+            <h2>Забавные видео с котиками</h2>
+            <div class="videos-container">
+                <!-- Видео 1 -->
+                <div class="video-card">
+                    <iframe
+                        src="https://rutube.ru/play/embed/1cb5345e00386de40270dc89c3e6c216"
+                        title="Видио для детей"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                    <div class="video-info">
+                        <h3>Приключение котом</h3>
+                        <p>Смотрите, как котёнок съел странное яблоко!</p>
+                    </div>
+                </div>
+
+                <!-- Видео 2 -->
+                <div class="video-card">
+                    <iframe
+                        src="https://rutube.ru/play/embed/64b03fc6b48c591b32a6f3037b69df9f"
+                        title="Смешной котик"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                    <div class="video-info">
+                        <h3>Смешные кошки</h3>
+                        <p>Видио про смешных кошок</p>
+                    </div>
+                </div>
