@@ -31,7 +31,7 @@ Avevpn: https://t.me/AveVpnBot?start=5231363734
 
 # Узнать мой ip адрес
 
-1) https://whoer.net/ru
+1) https://whoer.net
 
 2) https://2ip.ru
 
