@@ -1,8 +1,3 @@
-#profile-title: base64:Y2F0dnBuLWJveA==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/catktsuser/vpncat-box
-#profile-web-page-url: https://github.com/catktsuser/vpncat-box
 vless://32822411-b9c9-4e6e-9a39-8517ee809dc7@catloveminecraftrussian.mooo.com:8855?type=ws&encryption=none&path=%2Fhello%2Fmylovecat%2Fcat%2Flove%2Fcatwhite&host=catloveminecraftrussian.mooo.com&security=tls&fp=chrome&alpn=&sni=catloveminecraftrussian.mooo.com#Аварильная-1 cloud.ru 🇷🇺
 vless://54ee0670-c81d-484d-803c-0227757baa83@catloveminecraftrussian.mooo.com:8855?type=ws&encryption=none&path=%2Fhello%2Fmylovecat%2Fcat%2Flove%2Fcatwhite&host=catloveminecraftrussian.mooo.com&security=tls&fp=chrome&alpn=&sni=catloveminecraftrussian.mooo.com#Аварильная-2 cloudfare 🇷🇺
 vless://9426074e-1e49-41d4-b67c-622253a93db1@catloveminecraftrussian.mooo.com:8855?type=ws&encryption=none&path=%2Fhello%2Fmylovecat%2Fcat%2Flove%2Fcatwhite&host=catloveminecraftrussian.mooo.com&security=tls&fp=chrome&alpn=&sni=catloveminecraftrussian.mooo.com#Аварильный-3 Claw.Cloud 🇺🇸
