@@ -30,7 +30,7 @@
 2) https://2ip.ru
 
 
-# Подписки добавлены платного впн 
+# Подписки добавлены платного впн:
 
 iovpn: действует до 25 мая
 
@@ -38,15 +38,18 @@ avevpn: действует до 23 феврал
 
 ufavpn: Скоро
 
-# Свои сервера 
+# Свои сервера:
 
 cloud.ru: до 26 марта 
 
-Claw.Cloud:не известно (тратит 0.10 долоров кредит 5 долоров)
+Claw.Cloud: не известно (тратит 0.10 долоров кредит 5 долоров)
 
-# Подержка скоро...
+# Подержка:
 
-iovpn: https://t.me/io_vpnbot?start=6392863061 | https://t.me/iovpn
+Iovpn: https://t.me/io_vpnbot?start=6392863061 | https://t.me/iovpn
 
 Avevpn: https://t.me/AveVpnBot?start=5231363734
+
+Ufavpn: https://t.me/uffavpn_bot?start=U6392863061P
+
 
