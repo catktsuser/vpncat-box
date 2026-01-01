@@ -23,12 +23,6 @@
 
 Для Nekobox: https://raw.githubusercontent.com/catktsuser/vpncat-box/refs/heads/main/vpn-service/catvpn/fornekobox.txt
 
-Подержка:
-
-iovpn: https://t.me/io_vpnbot?start=6392863061 | https://t.me/iovpn
-
-Avevpn: https://t.me/AveVpnBot?start=5231363734
-
 # Узнать мой ip адрес
 
 1) https://whoer.net
@@ -52,5 +46,7 @@ Claw.Cloud:не известно (тратит 0.10 долоров кредит 
 
 # Подержка скоро...
 
+iovpn: https://t.me/io_vpnbot?start=6392863061 | https://t.me/iovpn
 
+Avevpn: https://t.me/AveVpnBot?start=5231363734
 
